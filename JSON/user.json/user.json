@@ -1,0 +1,21 @@
+[{
+    "id": 1,
+    "name": "Nitish",
+    "address": "Banglore",
+    
+    "bookedIds": []
+ }, {
+    "id": 2,
+    "name": "Rajesh",
+    "address": "Delhi",
+    
+    "bookedIds": []
+
+ }, {
+    "id": 3,
+    "name": "Pankaj",
+    "address": "Ranchi",
+    
+    "bookedIds": []
+ 
+}]
